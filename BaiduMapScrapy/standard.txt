@@ -1,0 +1,7 @@
+items：
+name为景点名称
+address_norm为详细地址
+std_tag为标签
+phone为电话号码
+overall_rating为评分
+comment_num为评论数
